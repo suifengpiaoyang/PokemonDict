@@ -1,0 +1,319 @@
+---
+name: luna_pinyin.pokemon_abilities
+version: "2024-02-04"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 第三世代引入特性
+惡臭	e chou
+降雨	jiang yu
+加速	jia su
+戰鬥盔甲	zhan dou kui jia
+結實	jie shi
+溼氣	shi qi
+柔軟	rou ruan
+沙隱	sha yin
+靜電	jing dian
+蓄電	xu dian
+儲水	chu shui
+遲鈍	chi dun
+無關天氣	wu guan tian qi
+複眼	fu yan
+不眠	bu mian
+變色	bian se
+免疫	mian yi
+引火	yin huo
+鱗粉	lin fen
+我行我素	wo xing wo su
+吸盤	xi pan
+威嚇	wei he
+踩影	cai ying
+粗糙皮膚	cu cao pi fu
+神奇守護	shen qi shou hu
+飄浮	piao fu
+孢子	bao zi
+同步	tong bu
+恆淨之軀	heng jing zhi qu
+自然回覆	zi ran hui fu
+避雷針	bi lei zhen
+天恩	tian en
+悠遊自如	you you zi ru
+葉綠素	ye lv su
+發光	fa guang
+複製	fu zhi
+大力士	da li shi
+毒刺	du ci
+精神力	jing shen li
+熔岩鎧甲	rong yan kai jia
+水幕	shui mu
+磁力	ci li
+隔音	ge yin
+雨盤	yu pan
+揚沙	yang sha
+壓迫感	ya po gan
+厚脂肪	hou zhi fang
+早起	zao qi
+火焰之軀	huo yan zhi qu
+逃跑	tao pao
+銳利目光	rui li mu guang
+怪力鉗	guai li qian
+撿拾	jian shi
+懶惰	lan duo
+活力	huo li
+迷人之軀	mi ren zhi qu
+正電	zheng dian
+負電	fu dian
+陰晴不定	yin qing bu ding
+黏着	nian zhe
+蛻皮	tui pi
+毅力	yi li
+神奇鱗片	shen qi lin pian
+污泥漿	wu ni jiang
+茂盛	mao sheng
+猛火	meng huo
+激流	ji liu
+蟲之預感	chong zhi yu gan
+堅硬腦袋	jian ying nao dai
+日照	ri zhao
+沙穴	sha xue
+幹勁	gan jin
+白色煙霧	bai se yan wu
+瑜伽之力	yu jia zhi li
+硬殼盔甲	ying ke kui jia
+氣閘	qi zha
+# 第四世代引入特性
+蹣跚	pan shan
+電氣引擎	dian qi yin qing
+鬥爭心	dou zheng xin
+不屈之心	bu qu zhi xin
+雪隱	xue yin
+貪喫鬼	tan chi gui
+憤怒穴位	fen nu xue wei
+輕裝	qing zhuang
+耐熱	nai re
+單純	dan chun
+乾燥皮膚	gan zao pi fu
+下載	xia zai
+鐵拳	tie quan
+毒療	du liao
+適應力	shi ying li
+連續攻擊	lian xu gong ji
+溼潤之軀	shi run zhi qu
+太陽之力	tai yang zhi li
+飛毛腿	fei mao tui
+一般皮膚	yi ban pi fu
+狙擊手	ju ji shou
+魔法防守	mo fa fang shou
+無防守	wu fang shou
+慢出	man chu
+技術高手	ji shu gao shou
+葉子防守	ye zi fang shou
+笨拙	ben zhuo
+破格	po ge
+超幸運	chao xing yun
+引爆	yin bao
+危險預知	wei xian yu zhi
+預知夢	yu zhi meng
+純樸	chun piao
+有色眼鏡	you se yan jing
+過濾	guo lv
+慢啓動	man qi dong
+膽量	dan liang
+引水	yin shui
+冰凍之軀	bing dong zhi qu
+堅硬岩石	jian ying yan shi
+降雪	jiang xue
+採蜜	cai mi
+察覺	cha jue
+捨身	she shen
+多屬性	duo shu xing
+花之禮	hua zhi li
+夢魘	meng yan
+# 第五世代引入特性
+順手牽羊	shun shou qian yang
+強行	qiang xing
+唱反調	chang fan diao
+緊張感	jin zhang gan
+不服輸	bu fu shu
+軟弱	ruan ruo
+咒術之軀	zhou shu zhi qu
+治癒之心	zhi yu zhi xin
+友情防守	you qing fang shou
+碎裂鎧甲	sui lie kai jia
+重金屬	zhong jin shu
+輕金屬	qing jin shu
+多重鱗片	duo zhong lin pian
+中毒激升	zhong du ji sheng
+受熱激升	shou re ji sheng
+收穫	shou huo
+心靈感應	xin ling gan ying
+心情不定	xin qing bu ding
+防塵	fang chen
+毒手	du shou
+再生力	zai sheng li
+健壯胸肌	jian zhuang xiong ji
+撥沙	bo sha
+奇蹟皮膚	qi ji pi fu
+分析	fen xi
+幻覺	huan jue
+變身者	bian shen zhe
+穿透	chuan tou
+木乃伊	mu nai yi
+自信過度	zi xin guo du
+正義之心	zheng yi zhi xin
+膽怯	dan qie
+魔法鏡	mo fa jing
+食草	shi cao
+惡作劇之心	e zuo ju zhi xin
+沙之力	sha zhi li
+鐵刺	tie ci
+達摩模式	da mo mo shi
+勝利之星	sheng li zhi xing
+渦輪火焰	wo lun huo yan
+兆級電壓	zhao ji dian ya
+# 第六世代引入特性
+芳香幕	fang xiang mu
+花幕	hua mu
+頰囊	jia nang
+變幻自如	bian huan zi ru
+毛皮大衣	mao pi da yi
+魔術師	mo shu shi
+防彈	fang dan
+好勝	hao sheng
+強壯之顎	qiang zhuang zhi e
+冰凍皮膚	bing dong pi fu
+甜幕	tian mu
+戰鬥切換	zhan dou qie huan
+疾風之翼	ji feng zhi yi
+超級發射器	chao ji fa she qi
+草之毛皮	cao zhi mao pi
+共生	gong sheng
+硬爪	ying zhao
+妖精皮膚	yao jing pi fu
+黏滑	nian hua
+飛行皮膚	fei xing pi fu
+親子愛	qin zi ai
+暗黑氣場	an hei qi chang
+妖精氣場	yao jing qi chang
+氣場破壞	qi chang po huai
+始源之海	shi yuan zhi hai
+終結之地	zhong jie zhi di
+德爾塔氣流	de er ta qi liu
+# 第七世代引入特性
+持久力	chi jiu li
+躍躍欲逃	yue yue yu tao
+危險迴避	wei xian hui bi
+遇水凝固	yu shui ning gu
+不仁不義	bu ren bu yi
+界限盾殼	jie xian dun ke
+蹲守	dun shou
+水泡	shui pao
+鋼能力者	gang neng li zhe
+怒火沖天	nu huo chong tian
+撥雪	bo xue
+遠隔	yuan ge
+溼潤之聲	shi run zhi sheng
+先行治療	xian xing zhi liao
+電氣皮膚	dian qi pi fu
+衝浪之尾	chong lang zhi wei
+魚羣	yu qun
+畫皮	hua pi
+牽絆變身	qian ban bian shen
+羣聚變形	qun ju bian xing
+腐蝕	fu shi
+絕對睡眠	jue dui shui mian
+女王的威嚴	nv wang de wei yan
+飛出的內在物	fei chu de nei zai wu
+舞者	wu zhe
+蓄電池	xu dian chi
+毛茸茸	mao rong rong
+鮮豔之軀	xian yan zhi qu
+魂心	hun xin
+捲髮	juan fa
+接球手	jie qiu shou
+化學之力	hua xue zhi li
+異獸提升	yi shou ti sheng
+電氣製造者	dian qi zhi zao zhe
+精神製造者	jing shen zhi zao zhe
+薄霧製造者	bo wu zhi zao zhe
+青草製造者	qing cao zhi zao zhe
+金屬防護	jin shu fang hu
+幻影防守	huan ying fang shou
+棱鏡裝甲	leng jing zhuang jia
+腦核之力	nao he zhi li
+# 第八世代引入特性
+不撓之劍	bu nao zhi jian
+不屈之盾	bu qu zhi dun
+自由者	zi you zhe
+撿球	jian qiu
+棉絮	mian xu
+螺旋尾鰭	luo xuan wei qi
+鏡甲	jing jia
+一口導彈	yi kou dao dan
+堅毅	jian yi
+蒸汽機	zheng qi ji
+龐克搖滾	pang ke yao gun
+吐沙	tu sha
+冰鱗粉	bing lin fen
+熟成	shu cheng
+結凍頭	jie dong tou
+能量點	neng liang dian
+擬態	ni tai
+除障	chu zhang
+鋼之意志	gang zhi yi zhi
+滅亡之軀	mie wang zhi qu
+遊魂	you hun
+一猩一意	yi xing yi yi
+化學變化氣體	hua xue bian hua qi ti
+粉彩護幕	fen cai hu mu
+飽了又餓	bao le you e
+速擊	su ji
+無形拳	wu xing quan
+怪藥	guai yao
+電晶體	dian jing ti
+龍顎	long e
+蒼白嘶鳴	cang bai si ming
+漆黑嘶鳴	qi hei si ming
+人馬一體	ren ma yi ti
+# 第九世代引入特性
+甩不掉的氣味	shuai bu diao de qi wei
+掉出種子	diao chu zhong zi
+熱交換	re jiao huan
+憤怒甲殼	fen nu jia qiao
+潔淨之鹽	jie jing zhi yan
+焦香之軀	jiao xiang zhi qu
+乘風	cheng feng
+看門犬	kan men quan
+搬巖	ban yan
+風力發電	feng li fa dian
+全能變身	quan neng bian shen
+發號施令	fa hao shi ling
+電力轉換	dian li zhuan huan
+古代活性	gu dai huo xing
+夸克充能	kua ke chong neng
+黃金之軀	huang jin zhi qu
+災禍之鼎	zai huo zhi ding
+災禍之劍	zai huo zhi jian
+災禍之簡	zai huo zhi jian
+災禍之玉	zai huo zhi yu
+緋紅脈動	fei hong mai dong
+強子引擎	qiang zi yin qing
+跟風	gen feng
+反芻	fan chu
+鋒銳	feng rui
+大將	da jiang
+同臺共演	tong tai gong yan
+毒滿地	du man di
+尾甲	wei jia
+食土	shi tu
+菌絲之力	jun si zhi li
+款待	kuan dai
+心眼	xin yan
+面影輝映	mian ying hui ying
+毒鎖鏈	du suo lian
+甘露之蜜	gan lu zhi mi
+太晶變形	tai jing bian xing
+太晶甲殼	tai jing jia qiao
+歸零化境	gui ling hua jing
+毒傀儡	du kui lei

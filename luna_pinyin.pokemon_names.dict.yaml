@@ -1,0 +1,1040 @@
+---
+name: luna_pinyin.pokemon_names
+version: "2024-02-04"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 第一世代寶可夢
+妙蛙種子	miao wa zhong zi
+妙蛙草	miao wa cao
+妙蛙花	miao wa hua
+小火龍	xiao huo long
+火恐龍	huo kong long
+噴火龍	pen huo long
+傑尼龜	jie ni gui
+卡咪龜	ka mi gui
+水箭龜	shui jian gui
+綠毛蟲	lv mao chong
+鐵甲蛹	tie jia yong
+巴大蝶	ba da die
+獨角蟲	du jiao chong
+鐵殼蛹	tie ke yong
+大針蜂	da zhen feng
+波波	bo bo
+比比鳥	bi bi niao
+大比鳥	da bi niao
+小拉達	xiao la da
+拉達	la da
+烈雀	lie que
+大嘴雀	da zui que
+阿柏蛇	a bai she
+阿柏怪	a bai guai
+皮卡丘	pi ka qiu
+雷丘	lei qiu
+穿山鼠	chuan shan shu
+穿山王	chuan shan wang
+尼多蘭	ni duo lan
+尼多娜	ni duo na
+尼多後	ni duo hou
+尼多朗	ni duo lang
+尼多力諾	ni duo li nuo
+尼多王	ni duo wang
+皮皮	pi pi
+皮可西	pi ke xi
+六尾	liu wei
+九尾	jiu wei
+胖丁	pang ding
+胖可丁	pang ke ding
+超音蝠	chao yin fu
+大嘴蝠	da zui fu
+走路草	zou lu cao
+臭臭花	chou chou hua
+霸王花	ba wang hua
+派拉斯	pai la si
+派拉斯特	pai la si te
+毛球	mao qiu
+摩魯蛾	mo lu e
+地鼠	di shu
+三地鼠	san di shu
+喵喵	miao miao
+貓老大	mao lao da
+可達鴨	ke da ya
+哥達鴨	ge da ya
+猴怪	hou guai
+火暴猴	huo bao hou
+卡蒂狗	ka di gou
+風速狗	feng su gou
+蚊香蝌蚪	wen xiang ke dou
+蚊香君	wen xiang jun
+蚊香泳士	wen xiang yong shi
+凱西	kai xi
+勇基拉	yong ji la
+胡地	hu di
+腕力	wan li
+豪力	hao li
+怪力	guai li
+喇叭芽	la ba ya
+口呆花	kou dai hua
+大食花	da shi hua
+瑪瑙水母	ma nao shui mu
+毒刺水母	du ci shui mu
+小拳石	xiao quan shi
+隆隆石	long long shi
+隆隆巖	long long yan
+小火馬	xiao huo ma
+烈焰馬	lie yan ma
+呆呆獸	dai dai shou
+呆殼獸	dai ke shou
+小磁怪	xiao ci guai
+三合一磁怪	san he yi ci guai
+大蔥鴨	da cong ya
+嘟嘟	du du
+嘟嘟利	du du li
+小海獅	xiao hai shi
+白海獅	bai hai shi
+臭泥	chou ni
+臭臭泥	chou chou ni
+大舌貝	da she bei
+刺甲貝	ci jia bei
+鬼斯	gui si
+鬼斯通	gui si tong
+耿鬼	geng gui
+大巖蛇	da yan she
+催眠貘	cui mian mo
+引夢貘人	yin meng mo ren
+大鉗蟹	da qian xie
+巨鉗蟹	ju qian xie
+霹靂電球	pi li dian qiu
+頑皮雷彈	wan pi lei dan
+蛋蛋	dan dan
+椰蛋樹	ye dan shu
+卡拉卡拉	ka la ka la
+嘎啦嘎啦	ga la ga la
+飛腿郎	fei tui lang
+快拳郎	kuai quan lang
+大舌頭	da she tou
+瓦斯彈	wa si dan
+雙彈瓦斯	shuang dan wa si
+獨角犀牛	du jiao xi niu
+鑽角犀獸	zuan jiao xi shou
+吉利蛋	ji li dan
+蔓藤怪	man teng guai
+袋獸	dai shou
+墨海馬	mo hai ma
+海刺龍	hai ci long
+角金魚	jiao jin yu
+金魚王	jin yu wang
+海星星	hai xing xing
+寶石海星	bao shi hai xing
+魔牆人偶	mo qiang ren ou
+飛天螳螂	fei tian tang lang
+迷脣姐	mi chun jie
+電擊獸	dian ji shou
+鴨嘴火獸	ya zui huo shou
+凱羅斯	kai luo si
+肯泰羅	ken tai luo
+鯉魚王	li yu wang
+暴鯉龍	bao li long
+拉普拉斯	la pu la si
+百變怪	bai bian guai
+伊布	yi bu
+水伊布	shui yi bu
+雷伊布	lei yi bu
+火伊布	huo yi bu
+多邊獸	duo bian shou
+菊石獸	ju shi shou
+多刺菊石獸	duo ci ju shi shou
+化石盔	hua shi kui
+鐮刀盔	lian dao kui
+化石翼龍	hua shi yi long
+卡比獸	ka bi shou
+急凍鳥	ji dong niao
+閃電鳥	shan dian niao
+火焰鳥	huo yan niao
+迷你龍	mi ni long
+哈克龍	ha ke long
+快龍	kuai long
+超夢	chao meng
+夢幻	meng huan
+# 第二世代寶可夢
+菊草葉	ju cao ye
+月桂葉	yue gui ye
+大竺葵	da zhu kui
+火球鼠	huo qiu shu
+火巖鼠	huo yan shu
+火暴獸	huo bao shou
+小鋸鱷	xiao ju e
+藍鱷	lan e
+大力鱷	da li e
+尾立	wei li
+大尾立	da wei li
+咕咕	gu gu
+貓頭夜鷹	mao tou ye ying
+芭瓢蟲	ba piao chong
+安瓢蟲	an piao chong
+圓絲蛛	yuan si zhu
+阿利多斯	a li duo si
+叉字蝠	cha zi fu
+燈籠魚	deng long yu
+電燈怪	dian deng guai
+皮丘	pi qiu
+皮寶寶	pi bao bao
+寶寶丁	bao bao ding
+波克比	bo ke bi
+波克基古	bo ke ji gu
+天然雀	tian ran que
+天然鳥	tian ran niao
+咩利羊	mie li yang
+茸茸羊	rong rong yang
+電龍	dian long
+美麗花	mei li hua
+瑪力露	ma li lu
+瑪力露麗	ma li lu li
+樹纔怪	shu cai guai
+蚊香蛙皇	wen xiang wa huang
+毽子草	jian zi cao
+毽子花	jian zi hua
+毽子棉	jian zi mian
+長尾怪手	zhang wei guai shou
+向日種子	xiang ri zhong zi
+向日花怪	xiang ri hua guai
+蜻蜻蜓	qing qing ting
+烏波	wu bo
+沼王	zhao wang
+太陽伊布	tai yang yi bu
+月亮伊布	yue liang yi bu
+黑暗鴉	hei an ya
+呆呆王	dai dai wang
+夢妖	meng yao
+未知圖騰	wei zhi tu teng
+果然翁	guo ran weng
+麒麟奇	qi lin qi
+榛果球	zhen guo qiu
+佛烈託斯	fu lie tuo si
+土龍弟弟	tu long di di
+天蠍	tian xie
+大鋼蛇	da gang she
+布魯	bu lu
+布魯皇	bu lu huang
+千針魚	qian zhen yu
+巨鉗螳螂	ju qian tang lang
+壺壺	hu hu
+赫拉克羅斯	he la ke luo si
+狃拉	niu la
+熊寶寶	xiong bao bao
+圈圈熊	quan quan xiong
+熔岩蟲	rong yan chong
+熔岩蝸牛	rong yan wo niu
+小山豬	xiao shan zhu
+長毛豬	chang mao zhu
+太陽珊瑚	tai yang shan hu
+鐵炮魚	tie pao yu
+章魚桶	zhang yu tong
+信使鳥	xin shi niao
+巨翅飛魚	ju chi fei yu
+盔甲鳥	kui jia niao
+戴魯比	dai lu bi
+黑魯加	hei lu jia
+刺龍王	ci long wang
+小小象	xiao xiao xiang
+頓甲	dun jia
+驚角鹿	jing jiao lu
+圖圖犬	tu tu quan
+無畏小子	wu wei xiao zi
+戰舞郎	zhan wu lang
+迷脣娃	mi chun wa
+電擊怪	dian ji guai
+鴨嘴寶寶	ya zui bao bao
+大奶罐	da nai guan
+幸福蛋	xing fu dan
+雷公	lei gong
+炎帝	yan di
+水君	shui jun
+幼基拉斯	you ji la si
+沙基拉斯	sha ji la si
+班基拉斯	ban ji la si
+洛奇亞	luo qi ya
+鳳王	feng wang
+時拉比	shi la bi
+# 第三世代寶可夢
+木守宮	mu shou gong
+森林蜥蜴	sen lin xi yi
+蜥蜴王	xi yi wang
+火稚雞	huo zhi ji
+力壯雞	li zhuang ji
+火焰雞	huo yan ji
+水躍魚	shui yue yu
+沼躍魚	zhao yue yu
+巨沼怪	ju zhao guai
+土狼犬	tu lang quan
+大狼犬	da lang quan
+蛇紋熊	she wen xiong
+直衝熊	zhi chong xiong
+刺尾蟲	ci wei chong
+甲殼繭	jia qiao jian
+狩獵鳳蝶	shou lie feng die
+盾甲繭	dun jia jian
+毒粉蛾	du fen e
+蓮葉童子	lian ye tong zi
+蓮帽小童	lian mao xiao tong
+樂天河童	le tian he tong
+橡實果	xiang shi guo
+長鼻葉	zhang bi ye
+狡猾天狗	jiao hua tian gou
+傲骨燕	ao gu yan
+大王燕	dai wang yan
+長翅鷗	zhang chi ou
+大嘴鷗	da zui ou
+拉魯拉絲	la lu la si
+奇魯莉安	qi lu li an
+沙奈朵	sha nai duo
+溜溜糖球	liu liu tang qiu
+雨翅蛾	yu chi e
+蘑蘑菇	mo mo gu
+斗笠菇	dou li gu
+懶人獺	lan ren ta
+過動猿	guo dong yuan
+請假王	qing jia wang
+土居忍士	tu ju ren shi
+鐵面忍者	tie mian ren zhe
+脫殼忍者	tuo qiao ren zhe
+咕妞妞	gu niu niu
+吼爆彈	hou bao dan
+爆音怪	bao yin guai
+幕下力士	mu xia li shi
+鐵掌力士	tie zhang li shi
+露力麗	lu li li
+朝北鼻	chao bei bi
+向尾喵	xiang wei miao
+優雅貓	you ya mao
+勾魂眼	gou hun yan
+大嘴娃	da zui wa
+可可多拉	ke ke duo la
+可多拉	ke duo la
+波士可多拉	bo shi ke duo la
+瑪沙那	ma sha na
+恰雷姆	qia lei mu
+落雷獸	luo lei shou
+雷電獸	lei dian shou
+正電拍拍	zheng dian pai pai
+負電拍拍	fu dian pai pai
+電螢蟲	dian ying chong
+甜甜螢	tian tian ying
+毒薔薇	du qiang wei
+溶食獸	rong shi shou
+吞食獸	tun shi shou
+利牙魚	li ya yu
+巨牙鯊	ju ya sha
+吼吼鯨	hou hou jing
+吼鯨王	hou jing wang
+呆火駝	dai huo tuo
+噴火駝	pen huo tuo
+煤炭龜	mei tan gui
+跳跳豬	tiao tiao zhu
+噗噗豬	pu pu zhu
+晃晃斑	huang huang ban
+大顎蟻	da e yi
+超音波幼蟲	chao yin bo you chong
+沙漠蜻蜓	sha mo qing ting
+刺球仙人掌	ci qiu xian ren zhang
+夢歌仙人掌	meng ge xian ren zhang
+青綿鳥	qing mian niao
+七夕青鳥	qi xi qing niao
+貓鼬斬	mao you zhan
+飯匙蛇	fan shi she
+月石	yue shi
+太陽巖	tai yang yan
+泥泥鰍	ni ni qiu
+鮎魚王	nian yu wang
+龍蝦小兵	long xia xiao bing
+鐵螯龍蝦	tie ao long xia
+天秤偶	tian cheng ou
+念力土偶	nian li tu ou
+觸手百合	chu shou bai he
+搖籃百合	yao lan bai he
+太古羽蟲	tai gu yu chong
+太古盔甲	tai gu kui jia
+醜醜魚	chou chou yu
+美納斯	mei na si
+飄浮泡泡	piao fu pao pao
+變隱龍	bian yin long
+怨影娃娃	yuan ying wa wa
+詛咒娃娃	zu zhou wa wa
+夜巡靈	ye xun ling
+彷徨夜靈	pang huang ye ling
+熱帶龍	re dai long
+風鈴鈴	feng ling ling
+阿勃梭魯	a bo suo lu
+小果然	xiao guo ran
+雪童子	xue tong zi
+冰鬼護	bing gui hu
+海豹球	hai bao qiu
+海魔獅	hai mo shi
+帝牙海獅	di ya hai shi
+珍珠貝	zhen zhu bei
+獵斑魚	lie ban yu
+櫻花魚	ying hua yu
+古空棘魚	gu kong ji yu
+愛心魚	ai xin yu
+寶貝龍	bao bei long
+甲殼龍	jia qiao long
+暴飛龍	bao fei long
+鐵啞鈴	tie ya ling
+金屬怪	jin shu guai
+巨金怪	ju jin guai
+雷吉洛克	lei ji luo ke
+雷吉艾斯	lei ji ai si
+雷吉斯奇魯	lei ji si qi lu
+拉帝亞斯	la di ya si
+拉帝歐斯	la di ou si
+蓋歐卡	gai ou ka
+固拉多	gu la duo
+烈空坐	lie kong zuo
+基拉祈	ji la qi
+代歐奇希斯	dai ou qi xi si
+# 第四世代寶可夢
+草苗龜	cao miao gui
+樹林龜	shu lin gui
+土臺龜	tu tai gui
+小火焰猴	xiao huo yan hou
+猛火猴	meng huo hou
+烈焰猴	lie yan hou
+波加曼	bo jia man
+波皇子	bo huang zi
+帝王拿波	di wang na bo
+姆克兒	mu ke er
+姆克鳥	mu ke niao
+姆克鷹	mu ke ying
+大牙狸	da ya li
+大尾狸	da wei li
+圓法師	yuan fa shi
+音箱蟀	yin xiang shuai
+小貓怪	xiao mao guai
+勒克貓	lei ke mao
+倫琴貓	lun qin mao
+含羞苞	han xiu bao
+羅絲雷朵	luo si lei duo
+頭蓋龍	tou gai long
+戰槌龍	zhan chui long
+盾甲龍	dun jia long
+護城龍	hu cheng long
+結草兒	jie cao er
+結草貴婦	jie cao gui fu
+紳士蛾	shen shi e
+三蜜蜂	san mi feng
+蜂女王	feng nv wang
+帕奇利茲	pa qi li zi
+泳圈鼬	yong quan you
+浮潛鼬	fu qian you
+櫻花寶	ying hua bao
+櫻花兒	ying hua er
+無殼海兔	wu ke hai tu
+海兔獸	hai tu shou
+雙尾怪手	shuang wei guai shou
+飄飄球	piao piao qiu
+隨風球	sui feng qiu
+卷卷耳	juan juan er
+長耳兔	zhang er tu
+夢妖魔	meng yao mo
+烏鴉頭頭	wu ya tou tou
+魅力喵	mei li miao
+東施喵	dong shi miao
+鈴鐺響	ling dang xiang
+臭鼬噗	chou you pu
+坦克臭鼬	tan ke chou you
+銅鏡怪	tong jing guai
+青銅鐘	qing tong zhong
+盆纔怪	pen cai guai
+魔尼尼	mo ni ni
+小福蛋	xiao fu dan
+聒噪鳥	gua zao niao
+花巖怪	hua yan guai
+圓陸鯊	yuan lu sha
+尖牙陸鯊	jian ya lu sha
+烈咬陸鯊	lie yao lu sha
+小卡比獸	xiao ka bi shou
+利歐路	li ou lu
+路卡利歐	lu qia li ou
+沙河馬	sha he ma
+河馬獸	he ma shou
+鉗尾蠍	qian wei xie
+龍王蠍	long wang xie
+不良蛙	bu liang wa
+毒骷蛙	du ku wa
+尖牙籠	jian ya long
+熒光魚	ying guang yu
+霓虹魚	ni hong yu
+小球飛魚	xiao qiu fei yu
+雪笠怪	xue li guai
+暴雪王	bao xue wang
+瑪狃拉	ma niu la
+自爆磁怪	zi bao ci guai
+大舌舔	da she tian
+超甲狂犀	chao jia kuang xi
+巨蔓藤	ju man teng
+電擊魔獸	dian ji mo shou
+鴨嘴炎獸	ya zui yan shou
+波克基斯	bo ke ji si
+遠古巨蜓	yuan gu ju ting
+葉伊布	ye yi bu
+冰伊布	bing yi bu
+天蠍王	tian xie wang
+象牙豬	xiang ya zhu
+多邊獸乙型	duo bian shou yi xing
+艾路雷朵	ai lu lei duo
+大朝北鼻	da chao bei bi
+黑夜魔靈	hei ye mo ling
+雪妖女	xue yao nv
+洛託姆	luo tuo mu
+由克希	you ke xi
+艾姆利多	ai mu li duo
+亞克諾姆	ya ke nuo mu
+帝牙盧卡	di ya lu ka
+帕路奇亞	pa lu qi ya
+席多藍恩	xi duo lan en
+雷吉奇卡斯	lei ji qi ka si
+騎拉帝納	qi la di na
+克雷色利亞	ke lei se li ya
+霏歐納	fei ou na
+瑪納霏	ma na fei
+達克萊伊	da ke lai yi
+謝米	xie mi
+阿爾宙斯	a er zhou si
+# 第五世代寶可夢
+比克提尼	bi ke ti ni
+藤藤蛇	teng teng she
+青藤蛇	qing teng she
+君主蛇	jun zhu she
+暖暖豬	nuan nuan zhu
+炒炒豬	chao chao zhu
+炎武王	yan wu wang
+水水獺	shui shui ta
+雙刃丸	shuang ren wan
+大劍鬼	da jian gui
+探探鼠	tan tan shu
+步哨鼠	bu shao shu
+小約克	xiao yue ke
+哈約克	ha yue ke
+長毛狗	chang mao gou
+扒手貓	pa shou mao
+酷豹	ku bao
+花椰猴	hua ye hou
+花椰猿	hua ye yuan
+爆香猴	bao xiang hou
+爆香猿	bao xiang yuan
+冷水猴	leng shui hou
+冷水猿	leng shui yuan
+食夢夢	shi meng meng
+夢夢蝕	meng meng shi
+豆豆鴿	dou dou ge
+咕咕鴿	gu gu ge
+高傲雉雞	gao ao zhi ji
+斑斑馬	ban ban ma
+雷電斑馬	lei dian ban ma
+石丸子	shi wan zi
+地幔巖	di man yan
+龐巖怪	pang yan guai
+滾滾蝙蝠	gun gun bian fu
+心蝙蝠	xin bian fu
+螺釘地鼠	luo ding di shu
+龍頭地鼠	long tou di shu
+差不多娃娃	cha bu duo wa wa
+搬運小匠	ban yun xiao jiang
+鐵骨土人	tie gu tu ren
+修建老匠	xiu jian lao jiang
+圓蝌蚪	yuan ke dou
+藍蟾蜍	lan chan chu
+蟾蜍王	chan chu wang
+投摔鬼	tou shuai gui
+打擊鬼	da ji gui
+蟲寶包	chong bao bao
+寶包繭	bao bao jian
+保姆蟲	bao mu chong
+百足蜈蚣	bai zu wu gong
+車輪球	che lun qiu
+蜈蚣王	wu gong wang
+木棉球	mu mian qiu
+風妖精	feng yao jing
+百合根娃娃	bai he gen wa wa
+裙兒小姐	qun er xiao jie
+野蠻鱸魚	ye man lu yu
+黑眼鱷	hei yan e
+混混鱷	hun hun e
+流氓鱷	liu mang e
+火紅不倒翁	huo hong bu dao weng
+達摩狒狒	da mo fei fei
+沙鈴仙人掌	sha ling xian ren zhang
+石居蟹	shi ju xie
+巖殿居蟹	yan dian ju xie
+滑滑小子	hua hua xiao zi
+頭巾混混	tou jin hun hun
+象徵鳥	xiang zheng niao
+哭哭面具	ku ku mian ju
+迭失棺	die shi guan
+原蓋海龜	yuan gai hai gui
+肋骨海龜	lei gu hai gui
+始祖小鳥	shi zu xiao niao
+始祖大鳥	shi zu da niao
+破破袋	po po dai
+灰塵山	hui chen shan
+索羅亞	suo luo ya
+索羅亞克	suo luo ya ke
+泡沫栗鼠	pao mo li shu
+奇諾栗鼠	qi nuo li shu
+哥德寶寶	ge de bao bao
+哥德小童	ge de xiao tong
+哥德小姐	ge de xiao jie
+單卵細胞球	dan luan xi bao qiu
+雙卵細胞球	shuang luan xi bao qiu
+人造細胞卵	ren zao xi bao luan
+鴨寶寶	ya bao bao
+舞天鵝	wu tian e
+迷你冰	mi ni bing
+多多冰	duo duo bing
+雙倍多多冰	shuang bei duo duo bing
+四季鹿	si ji lu
+萌芽鹿	meng ya lu
+電飛鼠	dian fei shu
+蓋蓋蟲	gai gai chong
+騎士蝸牛	qi shi wo niu
+哎呀球菇	ai ya qiu gu
+敗露球菇	bai lu qiu gu
+輕飄飄	qing piao piao
+胖嘟嘟	pang du du
+保姆曼波	bao mu man bo
+電電蟲	dian dian chong
+電蜘蛛	dian zhi zhu
+種子鐵球	zhong zi tie qiu
+堅果啞鈴	jian guo ya ling
+齒輪兒	chi lun er
+齒輪組	chi lun zu
+齒輪怪	chi lun guai
+麻麻小魚	ma ma xiao yu
+麻麻鰻	ma ma man
+麻麻鰻魚王	ma ma man yu wang
+小灰怪	xiao hui guai
+大宇怪	da yu guai
+燭光靈	zhu guang ling
+燈火幽靈	deng huo you ling
+水晶燈火靈	shui jing deng huo ling
+牙牙	ya ya
+斧牙龍	fu ya long
+雙斧戰龍	shuang fu zhan long
+噴嚏熊	pen ti xiong
+凍原熊	dong yuan xiong
+幾何雪花	ji he xue hua
+小嘴蝸	xiao zui wo
+敏捷蟲	min jie chong
+泥巴魚	ni ba yu
+功夫鼬	gong fu you
+師父鼬	shi fu you
+赤面龍	chi mian long
+泥偶小人	ni ou xiao ren
+泥偶巨人	ni ou ju ren
+駒刀小兵	ju dao xiao bing
+劈斬司令	pi zhan si ling
+爆炸頭水牛	bao zha tou shui niu
+毛頭小鷹	mao tou xiao ying
+勇士雄鷹	yong shi xiong ying
+禿鷹丫頭	tu ying ya tou
+禿鷹娜	tu ying na
+熔蟻獸	rong yi shou
+鐵蟻	tie yi
+單首龍	dan shou long
+雙首暴龍	shuang shou bao long
+三首惡龍	san shou e long
+燃燒蟲	ran shao chong
+火神蛾	huo shen e
+勾帕路翁	gou pa lu weng
+代拉基翁	dai la ji weng
+畢力吉翁	bi li ji weng
+龍捲雲	long juan yun
+雷電雲	lei dian yun
+萊希拉姆	lai xi la mu
+捷克羅姆	jie ke luo mu
+土地雲	tu di yun
+酋雷姆	qiu lei mu
+凱路迪歐	kai lu di ou
+美洛耶塔	mei luo ye ta
+蓋諾賽克特	gai nuo sai ke te
+# 第六世代寶可夢
+哈力慄	ha li li
+胖胖哈力	pang pang ha li
+布里卡隆	bu li ka long
+火狐狸	huo hu li
+長尾火狐	zhang wei huo hu
+妖火紅狐	yao huo hong hu
+呱呱泡蛙	gu gu pao wa
+呱頭蛙	gu tou wa
+甲賀忍蛙	jia he ren wa
+掘掘兔	jue jue tu
+掘地兔	jue di tu
+小箭雀	xiao jian que
+火箭雀	huo jian que
+烈箭鷹	lie jian ying
+粉蝶蟲	fen die chong
+粉蝶蛹	fen die yong
+彩粉蝶	cai fen die
+小獅獅	xiao shi shi
+火炎獅	huo yan shi
+花蓓蓓	hua bei bei
+花葉蒂	hua ye di
+花潔夫人	hua jie fu ren
+坐騎小羊	zuo qi xiao yang
+坐騎山羊	zuo qi shan yang
+頑皮熊貓	wan pi xiong mao
+霸道熊貓	ba dao xiong mao
+多麗米亞	duo li mi ya
+妙喵	miao miao
+超能妙喵	chao neng miao miao
+獨劍鞘	du jian qiao
+雙劍鞘	shuang jian qiao
+堅盾劍怪	jian dun jian guai
+粉香香	fen xiang xiang
+芳香精	fang xiang jing
+綿綿泡芙	mian mian pao fu
+胖甜妮	pang tian ni
+好啦魷	hao la you
+烏賊王	wu zei wang
+龜腳腳	gui jiao jiao
+龜足巨鎧	gui zu ju kai
+垃垃藻	la la zao
+毒藻龍	du zao long
+鐵臂槍蝦	tie bi qiang xia
+鋼炮臂蝦	gang pao bi xia
+傘電蜥	san dian xi
+光電傘蜥	guang dian san xi
+寶寶暴龍	bao bao bao long
+怪顎龍	guai e long
+冰雪龍	bing xue long
+冰雪巨龍	bing xue ju long
+仙子伊布	xian zi yi bu
+摔角鷹人	shuai jiao ying ren
+咚咚鼠	dong dong shu
+小碎鑽	xiao sui zuan
+黏黏寶	nian nian bao
+黏美兒	nian mei er
+黏美龍	nian mei long
+鑰圈兒	yao quan er
+小木靈	xiao mu ling
+朽木妖	xiu mu yao
+南瓜精	nan gua jing
+南瓜怪人	nan gua guai ren
+冰寶	bing bao
+冰岩怪	bing yan guai
+嗡蝠	weng fu
+音波龍	yin bo long
+哲爾尼亞斯	zhe er ni ya si
+伊裴爾塔爾	yi pei er ta er
+基格爾德	ji ge er de
+蒂安希	di an xi
+胡帕	hu pa
+波爾凱尼恩	bo er kai ni en
+# 第七世代寶可夢
+木木梟	mu mu xiao
+投羽梟	tou yu xiao
+狙射樹梟	ju she shu xiao
+火斑喵	huo ban miao
+炎熱喵	yan re miao
+熾焰咆哮虎	chi yan pao xiao hu
+球球海獅	qiu qiu hai shi
+花漾海獅	hua yang hai shi
+西獅海壬	xi shi hai ren
+小篤兒	xiao du er
+喇叭啄鳥	la ba zhuo niao
+銃嘴大鳥	chong zui da niao
+貓鼬少	mao you shao
+貓鼬探長	mao you tan zhang
+強顎雞母蟲	qiang e ji mu chong
+蟲電寶	chong dian bao
+鍬農炮蟲	qiao nong pao chong
+好勝蟹	hao sheng xie
+好勝毛蟹	hao sheng mao xie
+花舞鳥	hua wu niao
+萌虻	meng meng
+蝶結萌虻	die jie meng meng
+巖狗狗	yan gou gou
+鬃巖狼人	zong yan lang ren
+弱丁魚	ruo ding yu
+好壞星	hao huai xing
+超壞星	chao huai xing
+泥驢仔	ni lv zai
+重泥挽馬	zhong ni wan ma
+滴蛛	di zhu
+滴蛛霸	di zhu ba
+僞螳草	wei tang cao
+蘭螳花	lan tang hua
+睡睡菇	shui shui gu
+燈罩夜菇	deng zhao ye gu
+夜盜火蜥	ye dao huo xi
+焰後蜥	yan hou xi
+童偶熊	tong ou xiong
+穿着熊	chuan zhe xiong
+甜竹竹	tian zhu zhu
+甜舞妮	tian wu ni
+甜冷美后	tian leng mei hou
+花療環環	hua liao huan huan
+智揮猩	zhi hui xing
+投擲猴	tou zhi hou
+膽小蟲	dan xiao chong
+具甲武者	ju jia wu zhe
+沙丘娃	sha qiu wa
+噬沙堡爺	shi sha bao ye
+拳海蔘	quan hai shen
+銀伴戰獸	yin ban zhan shou
+小隕星	xiao yun xing
+樹枕尾熊	shu zhen wei xiong
+爆焰龜獸	bao yan gui shou
+託戈德瑪爾	tuo ge de ma er
+謎擬丘	mi ni qiu
+磨牙彩皮魚	mo ya cai pi yu
+老翁龍	lao weng long
+破破舵輪	po po duo lun
+心鱗寶	xin lin bao
+鱗甲龍	lin jia long
+杖尾鱗甲龍	zhang wei lin jia long
+卡璞	ka pu
+鳴鳴	ming ming
+蝶蝶	die die
+哞哞	mou mou
+鰭鰭	qi qi
+科斯莫古	ke si mo gu
+科斯莫姆	ke si mo mu
+索爾迦雷歐	suo er jia lei ou
+露奈雅拉	lu nai ya la
+虛吾伊德	xu wu yi de
+爆肌蚊	bao ji wen
+費洛美螂	fei luo mei lang
+電束木	dian shu mu
+鐵火輝夜	tie huo hui ye
+紙御劍	zhi yu jian
+惡食大王	e shi dai wang
+奈克洛茲瑪	nai ke luo zi ma
+瑪機雅娜	ma ji ya na
+瑪夏多	ma xia duo
+毒貝比	du bei bi
+四顎針龍	si e zhen long
+壘磊石	lei lei shi
+砰頭小丑	peng tou xiao chou
+捷拉奧拉	jie la ao la
+美錄坦	mei lu tan
+美錄梅塔	mei lu mei ta
+# 第八世代寶可夢
+敲音猴	qiao yin hou
+啪咚猴	pa dong hou
+轟擂金剛猩	hong lei jin gang xing
+炎兔兒	yan tu er
+騰蹴小將	teng cu xiao jiang
+閃焰王牌	shan yan wang pai
+淚眼蜥	lei yan xi
+變澀蜥	bian se xi
+千面避役	qian mian bi yi
+貪心栗鼠	tan xin li shu
+藏飽栗鼠	cang bao li shu
+稚山雀	zhi shan que
+藍鴉	lan ya
+鋼鎧鴉	gang kai ya
+索偵蟲	suo zhen chong
+天罩蟲	tian zhao chong
+以歐路普	yi ou lu pu
+狡小狐	jiao xiao hu
+猾大狐	hua da hu
+幼棉棉	you mian mian
+白蓬蓬	bai peng peng
+毛辮羊	mao bian yang
+毛毛角羊	mao mao jiao yang
+咬咬龜	yao yao gui
+暴噬龜	bao shi gui
+來電汪	lai dian wang
+逐電犬	zhu dian quan
+小炭仔	xiao tan zai
+大炭車	da tan che
+巨炭山	ju tan shan
+啃果蟲	ken guo chong
+蘋裹龍	ping guo long
+豐蜜龍	feng mi long
+沙包蛇	sha bao she
+沙螺蟒	sha luo mang
+古月鳥	gu yue niao
+刺梭魚	ci suo yu
+戽斗尖梭	hu dou jian suo
+電音嬰	dian yin ying
+顫弦蠑螈	chan xian rong yuan
+燒火蚣	shao huo gong
+焚焰蚣	fen yan gong
+拳拳蛸	quan quan shao
+八爪武師	ba zhao wu shi
+來悲茶	lai bei cha
+怖思壺	bu si hu
+迷布莉姆	mi bu li mu
+提布莉姆	ti bu li mu
+布莉姆溫	bu li mu wen
+搗蛋小妖	dao dan xiao yao
+詐唬魔	zha hu mo
+長毛巨魔	chang mao ju mo
+堵攔熊	du lan xiong
+喵頭目	miao tou mu
+魔靈珊瑚	mo ling shan hu
+蔥遊兵	cong you bing
+踏冰人偶	ta bing ren ou
+迭失板	die shi ban
+小仙奶	xiao xian nai
+霜奶仙	shuang nai xian
+列陣兵	lie zhen bing
+啪嚓海膽	pa ca hai dan
+雪吞蟲	xue tun chong
+雪絨蛾	xue rong e
+巨石丁	ju shi ding
+冰砌鵝	bing qi e
+愛管侍	ai guan shi
+莫魯貝可	mo lu bei ke
+銅象	tong xiang
+大王銅象	dai wang tong xiang
+雷鳥龍	lei niao long
+雷鳥海獸	lei niao hai shou
+鰓魚龍	sai yu long
+鰓魚海獸	sai yu hai shou
+鋁鋼龍	lv gang long
+多龍梅西亞	duo long mei xi ya
+多龍奇	duo long qi
+多龍巴魯託	duo long ba lu tuo
+蒼響	cang xiang
+藏瑪然特	cang ma ran te
+無極汰那	wu ji tai na
+熊徒弟	xiong tu di
+武道熊師	wu dao xiong shi
+薩戮德	sa lu de
+雷吉艾勒奇	lei ji ai lei qi
+雷吉鐸拉戈	lei ji duo la ge
+雪暴馬	xue bao ma
+靈幽馬	ling you ma
+蕾冠王	lei guan wang
+詭角鹿	gui jiao lu
+劈斧螳螂	pi fu tang lang
+月月熊	yue yue xiong
+幽尾玄魚	you wei xuan yu
+大狃拉	da niu la
+萬針魚	wan zhen yu
+眷戀雲	juan lian yun
+# 第九世代寶可夢
+新葉喵	xin ye miao
+蒂蕾喵	di lei miao
+魔幻假面喵	mo huan jia mian miao
+呆火鱷	dai huo e
+炙燙鱷	zhi tang e
+骨紋巨聲鱷	gu wen ju sheng e
+潤水鴨	run shui ya
+湧躍鴨	yong yue ya
+狂歡浪舞鴨	kuang huan lang wu ya
+愛喫豚	ai chi tun
+飄香豚	piao xiang tun
+團珠蛛	tuan zhu zhu
+操陷蛛	cao xian zhu
+豆蟋蟀	dou xi shuai
+烈腿蝗	lie tui huang
+布撥	bu bo
+布土撥	bu tu bo
+巴布土撥	ba bu tu bo
+一對鼠	yi dui shu
+一家鼠	yi jia shu
+狗仔包	gou zai bao
+麻花犬	ma hua quan
+迷你芙	mi ni fu
+奧利紐	ao li niu
+奧利瓦	ao li wa
+怒鸚哥	nu ying ge
+鹽石寶	yan shi bao
+鹽石壘	yan shi lei
+鹽石巨靈	yan shi ju ling
+炭小侍	tan xiao shi
+紅蓮鎧騎	hong lian kai qi
+蒼炎刃鬼	cang yan ren gui
+光蚪仔	guang dou zai
+電肚蛙	dian du wa
+電海燕	dian hai yan
+大電海燕	da dian hai yan
+偶叫獒	ou jiao ao
+獒教父	ao jiao fu
+滋汁鼴	zi zhi yan
+塗標客	tu biao ke
+納噬草	na shi cao
+怖納噬草	bu na shi cao
+原野水母	yuan ye shui mu
+陸地水母	lu di shui mu
+毛崖蟹	mao ya xie
+熱辣娃	re la wa
+狠辣椒	hen la jiao
+蟲滾泥	chong gun ni
+蟲甲聖	chong jia sheng
+飄飄雛	piao piao chu
+超能豔鴕	chao neng yan tuo
+小鍛匠	xiao duan jiang
+巧鍛匠	qiao duan jiang
+巨鍛匠	ju duan jiang
+海地鼠	hai di shu
+三海地鼠	san hai di shu
+下石鳥	xia shi niao
+波普海豚	bo pu hai tun
+海豚俠	hai tun xia
+噗隆隆	pu long long
+普隆隆姆	pu long long mu
+摩托蜥	mo tuo xi
+拖拖蚓	tuo tuo yin
+晶光芽	jing guang ya
+晶光花	jing guang hua
+墓仔狗	mu zai gou
+墓揚犬	mu yang quan
+纏紅鶴	chan hong he
+走鯨	zou jing
+浩大鯨	hao da jing
+輕身鱈	qing shen xue
+喫吼霸	chi hou ba
+米立龍	mi li long
+棄世猴	qi shi hou
+土王	tu wang
+奇麒麟	qi qi lin
+土龍節節	tu long jie jie
+僕刀將軍	pu dao jiang jun
+雄偉牙	xiong wei ya
+吼叫尾	hou jiao wei
+猛惡菇	meng e gu
+振翼發	zhen yi fa
+爬地翅	pa di chi
+沙鐵皮	sha tie pi
+鐵轍跡	tie zhe ji
+鐵包袱	tie bao fu
+鐵臂膀	tie bi bang
+鐵脖頸	tie bo geng
+鐵毒蛾	tie du e
+鐵荊棘	tie jing ji
+涼脊龍	liang ji long
+凍脊龍	dong ji long
+戟脊龍	ji ji long
+索財靈	suo cai ling
+賽富豪	sai fu hao
+古簡蝸	gu jian wo
+古劍豹	gu jian bao
+古鼎鹿	gu ding lu
+古玉魚	gu yu yu
+轟鳴月	hong ming yue
+鐵武者	tie wu zhe
+故勒頓	gu lei dun
+密勒頓	mi lei dun
+波盪水	bo dang shui
+鐵斑葉	tie ban ye
+裹蜜蟲	guo mi chong
+斯魔茶	si mo cha
+來悲粗茶	lai bei cu cha
+夠贊狗	gou zan gou
+願增猿	yuan zeng yuan
+吉雉雞	ji zhi ji
+厄詭椪	e gui peng
+鋁鋼橋龍	lv gang qiao long
+蜜集大蛇	mi ji da she
+破空焰	po kong yan
+猛雷鼓	meng lei gu
+鐵磐巖	tie pan yan
+鐵頭殼	tie tou ke
+太樂巴戈斯	tai le ba ge si
+桃歹郎	tao dai lang

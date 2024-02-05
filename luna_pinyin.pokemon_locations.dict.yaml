@@ -1,0 +1,764 @@
+---
+name: luna_pinyin.pokemon_locations
+version: "2024-02-04"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 地區列表
+關都	guan dou
+城都	cheng dou
+豐緣	feng yuan
+神奧	shen ao
+洗翠	xi cui
+合衆	he zhong
+卡洛斯	ka luo si
+阿羅拉	a luo la
+伽勒爾	ga lei er
+帕底亞	pa di ya
+七之島	qi zhi dao
+鎧島	kai dao
+王冠雪原	wang guan xue yuan
+北上鄉	bei shang xiang
+藍莓學園	lan mei xue yuan
+# 關都地區
+真新鎮	zhen xin zhen
+常青市	chang qing shi
+深灰市	shen hui shi
+華藍市	hua lan shi
+枯葉市	ku ye shi
+玉虹市	yu hong shi
+紫苑鎮	zi yuan zhen
+金黃市	jin huang shi
+淺紅市	qian hong shi
+紅蓮鎮	hong lian zhen
+華藍洞窟	hua lan dong ku
+玉虹百貨公司	yu hong bai huo gong si
+玉虹遊戲城	yu hong you xi cheng
+火箭遊戲城	huo jian you xi cheng
+火箭隊基地	huo jian dui ji di
+自行車道	zi xing che dao
+地鼠洞穴	di shu dong xue
+石英高原	shi ying gao yuan
+月見山	yue jian shan
+月見山廣場	yue jian shan guang chang
+寶可夢屋	bao ke meng wu
+寶可夢研究所	bao ke meng yan jiu suo
+紅蓮研究所	hong lian yan jiu suo
+寶可夢塔	bao ke meng ta
+紫苑播音塔	zi yuan bo yin ta
+無人發電廠	wu ren fa dian chang
+巖山隧道	yan shan sui dao
+狩獵地帶	shou lie di dai
+雙子島	shuang zi dao
+寂靜橋	ji jing qiao
+西爾佛公司	xi er fu gong si
+聖特安努號	sheng te an nu hao
+都城瀑布	du cheng pu bu
+地下通道	di xia tong dao
+冠軍之路	guan jun zhi lu
+寶可夢聯盟大門	bao ke meng lian meng da men
+常青森林	chang qing sen lin
+深灰科學博物館	shen hui ke xue bo wu guan
+磁浮列車	ci fu lie che
+夥伴公園	huo ban gong yuan
+肚臍巖	du qi yan
+誕生之島	dan sheng zhi dao
+熱氣之路	re qi zhi lu
+燈火山	deng huo shan
+邊緣海岬	bian yuan hai jia
+索橋	suo qiao
+樹果森林	shu guo sen lin
+凍瀑洞窟	dong pu dong ku
+火箭隊倉庫	huo jian dui cang ku
+回憶之塔	hui yi zhi ta
+標誌之林	biao zhi zhi lin
+變幻洞窟	bian huan dong ku
+遺蹟山谷	yi ji shan gu
+豪華度假區	hao hua du jia qu
+訓練家塔	xun lian jia ta
+溪谷入口	xi gu ru kou
+七寶溪谷	qi bao xi gu
+阿斯卡納遺蹟	a si ka na yi ji
+阿斯卡納的鑰匙	a si ka na de yao shi
+阿斯卡納石室	a si ka na shi shi
+伊萊斯石室	yi lai si shi shi
+那藏石室	na cang shi shi
+由格石室	you ge shi shi
+阿利波卡石室	a li bo ka shi shi
+科斗石室	ke dou shi shi
+阿努澤石室	a nu ze shi shi
+澳利弗石室	ao li fu shi shi
+# 城都地區
+若葉鎮	ruo ye zhen
+吉花市	ji hua shi
+桔梗市	jie geng shi
+檜皮鎮	gui pi zhen
+滿金市	man jin shi
+緣朱市	yuan zhu shi
+淺蔥市	qian cong shi
+湛藍市	zhan lan shi
+卡吉鎮	ka ji zhen
+煙墨市	yan mo shi
+燒焦塔	shao jiao ta
+斷崖洞窟	duan ya dong ku
+斷崖入口	duan ya ru kou
+黑暗洞穴	hei an dong xue
+埋藏之塔	mai cang zhi ta
+龍穴	long xue
+光輝燈塔	guang hui deng ta
+滿金地道	man jin di dao
+冰雪小徑	bing xue xiao jing
+櫟樹林	li shu lin
+憤怒之湖	fen nu zhi hu
+哞哞牧場	mou mou mu chang
+擂鉢山	lei bo shan
+白銀山	bai yin shan
+自然公園	zi ran gong yuan
+寶可全能競技賽巨蛋	bao ke quan neng jing ji sai ju dan
+播音塔	bo yin ta
+阿露福遺蹟	a lu fu yi ji
+呆呆獸之井	dai dai shou zhi jing
+喇叭芽之塔	la ba ya zhi ta
+鈴鐺塔	ling dang ta
+互連洞	hu lian dong
+漩渦島	xuan wo dao
+對戰開拓區	dui zhan kai tuo qu
+對戰塔	dui zhan ta
+# 豐緣地區
+未白鎮	wei bai zhen
+古玫鎮	gu mei zhen
+橙華市	cheng hua shi
+卡那茲市	ka na zi shi
+武鬥鎮	wu dou zhen
+凱那市	kai na shi
+紫堇市	zi jin shi
+綠茵鎮	lv yin zhen
+秋葉鎮	qiu ye zhen
+釜炎鎮	fu yan zhen
+茵鬱市	yin yu shi
+水靜市	shui jing shi
+綠嶺市	lv ling shi
+琉璃市	liu li shi
+暮水鎮	mu shui zhen
+彩悠市	cai you shi
+棄船	qi chuan
+古代墳墓	gu dai fen mu
+工匠之穴	gong jiang zhi xue
+覺醒神殿	jue xing shen dian
+沙漠遺蹟	sha mo yi ji
+沙漠的地下道	sha mo de di xia dao
+邊境的小島	bian jing de xiao dao
+烈焰小徑	lie yan xiao jing
+石之洞窟	shi zhi dong ku
+小島洞穴	xiao dao dong xue
+凹凸山道	ao tu shan dao
+海之窟	hai zhi ku
+流星瀑布	liu xing pu bu
+幻之島	huan zhi dao
+幻影之塔	huan ying zhi ta
+煙囪山	yan cong shan
+送神山	song shen shan
+新紫堇	xin zi jin
+橙華森林	cheng hua sen lin
+卡綠隧道	ka lv sui dao
+天旱石窟	tian han shi ku
+海底洞窟	hai di dong ku
+佈告石室	bu gao shi shi
+淺灘洞穴	qian tan dong xue
+天空之柱	tian kong zhi zhu
+南方孤島	nan fang gu dao
+陸之窟	lu zhi ku
+訓練家之丘	xun lian jia zhi qiu
+天氣研究所	tian qi yan jiu suo
+水中	shui zhong
+海紫堇	hai zi jin
+對戰度假地	dui zhan du jia di
+原始森林	yuan shi sen lin
+無名平原	wu ming ping yuan
+未知洞窟	wei zhi dong ku
+朦朧洞窟	meng long dong ku
+歪曲洞穴	wai qu dong xue
+弓形島	gong xing dao
+祕密小島	mi mi xiao dao
+高空	gao kong
+祕密海濱	mi mi hai bin
+祕密花圃	mi mi hua pu
+# 神奧地區
+雙葉鎮	shuang ye zhen
+真砂鎮	zhen sha zhen
+祝慶市	zhu qing shi
+黑金市	hei jin shi
+花苑鎮	hua yuan zhen
+百代市	bai dai shi
+家緣市	jia yuan shi
+隨意鎮	sui yi zhen
+帷幕市	wei mu shi
+野原市	ye yuan shi
+神和鎮	shen he zhen
+水脈市	shui mai shi
+雪峯市	xue feng shi
+濱海市	bin hai shi
+心齊湖畔	xin qi hu pan
+心齊湖	xin qi hu
+心齊湖洞窟	xin qi hu dong ku
+祝慶電視臺	zhu qing dian shi tai
+全球終端	quan qiu zhong duan
+寶可表公司	bao ke biao gong si
+祝慶公寓	zhu qing gong yu
+荒蕪小道	huang wu xiao dao
+黑金閘口	hei jin zha kou
+黑金炭坑博物館	hei jin tan keng bo wu guan
+黑金炭坑	hei jin tan keng
+花花世界花店	hua hua shi jie hua dian
+花苑花田	hua yuan hua tian
+山谷發電廠	shan gu fa dian chang
+百代森林	bai dai sen lin
+森之洋館	sen zhi yang guan
+百代公寓	bai dai gong yu
+銀河百代大樓	yin he bai dai da lou
+人力自行車店	ren li zi xing che dian
+地下大洞窟	di xia da dong ku
+迷幻洞窟	mi huan dong ku
+天冠山	tian guan shan
+互動廣場	hu dong guang chang
+寶芬料理廚房	bao fen liao li chu fang
+異文化建築	yi wen hua jian zhu
+迷失塔	mi shi ta
+靈魂之塔	ling hun zhi ta
+隨意遺蹟	sui yi yi ji
+寶可夢報社	bao ke meng bao she
+山間小屋咖啡館	shan jian xiao wu ka fei guan
+帷幕百貨	wei mu bai huo
+銀河帷幕大樓	yin he wei mu da lou
+銀河隊基地	yin he dui ji di
+銀河倉庫	yin he cang ku
+帷幕遊戲城	wei mu you xi cheng
+揮指時尚精品館	hui zhi shi shang jing pin guan
+湖畔大飯店	hu pan da fan dian
+遺蹟迷洞穴	yi ji mi dong xue
+遺蹟迷隧道	yi ji mi sui dao
+七星餐廳	qi xing can ting
+大溼地	da shi di
+立志湖畔	li zhi hu pan
+立志湖洞窟	li zhi hu dong ku
+立志湖	li zhi hu
+自豪的後院	zi hao de hou yuan
+水脈圖書館	shui mai tu shu guan
+碼頭旅館	ma tou lv guan
+水脈市碼頭	shui mai shi ma tou
+鋼鐵島	gang tie dao
+睿智湖畔	rui zhi hu pan
+睿智湖洞窟	rui zhi hu dong ku
+睿智湖	rui zhi hu
+雪峯神殿	xue feng shen dian
+巖山遺蹟	yan shan yi ji
+黑金遺蹟	hei jin yi ji
+冰山遺蹟	bing shan yi ji
+濱海市場	bin hai shi chang
+導航燈塔	dao hang deng ta
+隱泉之路	yin quan zhi lu
+送行之泉	song xing zhi quan
+歸途洞窟	gui tu dong ku
+毀壞的世界	hui huai de shi jie
+槍之柱	qiang zhi zhu
+起始之殿	qi shi zhi dian
+戰鬥區	zhan dou qu
+名勝區	ming sheng qu
+嚴酷山	yan ku shan
+生存區	sheng cun qu
+對戰特區	dui zhan te qu
+對戰公園	dui zhan gong yuan
+破海之路	po hai zhi lu
+花之樂園	hua zhi le yuan
+新月島	xin yue dao
+滿月島	man yue dao
+多多羅鋼鐵廠	duo duo luo gang tie chang
+玫瑰公園	mei gui gong yuan
+# 洗翠地區
+祝慶村	zhu qing cun
+銀河隊總部	yin he dui zong bu
+易寶攤	yi bao tan
+放牧場	fang mu chang
+衣鋪	yi pu
+理髮店	li fa dian
+照相館	zhao xiang guan
+雜貨店	za huo dian
+工藝店	gong yi dian
+訓練場	xun lian chang
+銀杏商會	yin xing shang hui
+起始海灘	qi shi hai tan
+野外訓練場	ye wai xun lian chang
+農場	nong chang
+雲霧遺蹟	yun wu yi ji
+金剛聚落	jin gang ju luo
+阿芒的家	a mang de jia
+神奧神殿	shen ao shen dian
+珍珠聚落	zhen zhu ju luo
+古昔隱居地	gu xi yin ju di
+黑曜原野	hei yao yuan ye
+紅蓮溼地	hong lian shi di
+羣青海岸	qun qing hai an
+天冠山麓	tian guan shan lu
+純白凍土	chun bai dong tu
+巨木戰場	ju mu zhan chang
+舞臺戰場	wu tai zhan chang
+熔岩戰場	rong yan zhan chang
+迎月戰場	ying yue zhan chang
+冰山戰場	bing shan zhan chang
+原野基地	yuan ye ji di
+高崗基地	gao gang ji di
+溼地基地	shi di ji di
+荒地基地	huang di ji di
+沙灘基地	sha tan ji di
+山麓基地	shan lu ji di
+山頂基地	shan ding ji di
+山中基地	shan zhong ji di
+雪原基地	xue yuan ji di
+冰山基地	bing shan ji di
+大志坡	da zhi po
+蹄鐵草原	ti tie cao yuan
+角鹿山道	jiao lu shan dao
+角鹿高崗	jiao lu gao gang
+黑曜瀑布	hei yao pu bu
+黑金隧道	hei jin sui dao
+森林膳房	sen lin shan fang
+深幽森林	shen you sen lin
+險林	xian lin
+真砂平原	zhen sha ping yuan
+河口堤堰	he kou di yan
+荒園開墾地	huang yuan kai ken di
+玫瑰島	mei gui dao
+馳風道	chi feng dao
+削石橋	xue shi qiao
+苔巖	tai yan
+金色平野	jin se ping ye
+大嘴沼澤	da zui zhao ze
+泥炭臺地	ni tan tai di
+緋紅沼	fei hong zhao
+隆隆坡	long long po
+雲海山道	yun hai shan dao
+試煉沙洲	shi lian sha zhou
+羽音原野	yu yin yuan ye
+羊胡草原	yang hu cao yuan
+金剛後山	jin gang hou shan
+熊的比武場	xiong de bi wu chang
+通海坡	tong hai po
+銀杏沙灘	yin xing sha tan
+鬼枯原	gui ku yuan
+後浦	hou pu
+沙洲道	sha zhou dao
+帷幕海角	wei mu hai jiao
+海草樂園	hai cao le yuan
+吹火島	chui huo dao
+大魚隱巖	da yu yin yan
+望島灘	wang dao tan
+迎風林	ying feng lin
+潮路	chao lu
+海邊小洞	hai bian xiao dong
+火山口祠	huo shan kou ci
+沙手	sha shou
+離散石灘	li san shi tan
+長尾怪手山	zhang wei guai shou shan
+寧靜灣	ning jing wan
+戲水潟湖	xi shui xi hu
+神前高崗	shen qian gao gang
+迷失山林	mi shi shan lin
+古代採石場	gu dai cai shi chang
+神闔山道	shen he shan dao
+離泉	li quan
+妖精之泉	yao jing zhi quan
+隆隆山地	long long shan di
+列石山道	lie shi shan dao
+太古洞穴	tai gu dong xue
+攀崖崖	pan ya ya
+神闔寺院遺址	shen he si yuan yi zhi
+巖門	yan men
+笠雲錐道	li yun zhui dao
+巡禮者之路	xun li zhe zhi lu
+祈禱廣場	qi dao guang chang
+雪濤谷	xue tao gu
+冰隙小徑	bing xi xiao jing
+酷寒荒地	ku han huang di
+冰岩塊	bing yan kuai
+冰河階坡	bing he jie po
+冰鬼瀑	bing gui pu
+雪崩坡	xue beng po
+往戰場的路	wang zhan chang de lu
+冰柱窟	bing zhu ku
+凍石	dong shi
+冰山地道	bing shan di dao
+祕密小洞	mi mi xiao dong
+觀雪溫泉	guan xue wen quan
+冬蟄洞穴	dong zhe dong xue
+心形巖山	xin xing yan shan
+# 合衆地區
+鹿子鎮	lu zi zhen
+唐草鎮	tang cao zhen
+三曜市	san yao shi
+七寶市	qi bao shi
+飛雲市	fei yun shi
+雷文市	lei wen shi
+帆巴市	fan ba shi
+吹寄市	chui ji shi
+雪花市	xue hua shi
+金輪鎮	jin lun zhen
+雙龍市	shuang long shi
+籠目鎮	long mu zhen
+漣漪鎮	lian yi zhen
+黑色市	hei se shi
+檜扇市	gui shan shi
+算木鎮	suan mu zhen
+立湧市	li yong shi
+山路鎮	shan lu zhen
+青海波市	qing hai bo shi
+夢的遺址	meng de yi zhi
+泉源洞穴	quan yuan dong xue
+矢車森林	shi che sen lin
+天箭橋	tian jian qiao
+自由庭園島	zi you ting yuan dao
+荒野名勝區	huang ye ming sheng qu
+古代城	gu dai cheng
+對戰地鐵	dui zhan di tie
+迷幻森林	mi huan sen lin
+帆巴吊橋	fan ba diao qiao
+冷凍倉庫	leng dong cang ku
+吹寄洞穴	chui ji dong xue
+電氣石洞穴	dian qi shi dong xue
+天堂之塔	tian tang zhi ta
+羅斯山	luo si shan
+龍螺旋之塔	long luo xuan zhi ta
+雪花溼地	xue hua shi di
+圓筒橋	yuan tong qiao
+修行巖屋	xiu xing yan wu
+漣漪灣	lian yi wan
+海底遺蹟	hai di yi ji
+豐饒之祠	feng rao zhi ci
+傳送工廠	chuan song gong chang
+白森林	bai sen lin
+巨人洞窟	ju ren dong ku
+村莊橋	cun zhuang qiao
+奇幻橋	qi huan qiao
+連入	lian ru
+聯合塔	lian he ta
+算木牧場	suan mu mu chang
+心之空洞	xin zhi kong dong
+誓約之林	shi yue zhi lin
+寶可夢好萊塢	bao ke meng hao lai wu
+立湧聯合工業區	li yong lian he gong ye qu
+飛雲下水道	fei yun xia shui dao
+古代祕道	gu dai mi dao
+菊老大之路	ju lao da zhi lu
+地底遺蹟	di di yi ji
+反轉山	fan zhuan shan
+海洋隧道	hai yang sui dao
+海邊洞穴	hai bian dong xue
+等離子驅逐艦	deng li zi qu zhu jian
+自然保護區	zi ran bao hu qu
+寶可夢世界錦標賽	bao ke meng shi jie jin biao sai
+匯合大道	hui he da dao
+陌生人之家	mo sheng ren zhi jia
+隱藏洞穴	yin cang dong xue
+# 卡洛斯地區
+朝香鎮	chao xiang zhen
+名水鎮	ming shui zhen
+白檀市	bai tan shi
+古木鎮	gu mu zhen
+遙香市	yao xiang shi
+石香鎮	shi xiang zhen
+古香鎮	gu xiang zhen
+娑羅市	suo luo shi
+比翼市	bi yi shi
+密阿雷市	mi a lei shi
+香薰市	xiang xun shi
+風絮鎮	feng xu zhen
+百刻市	bai ke shi
+連理鎮	lian li zhen
+映雪市	ying xue shi
+奇楠市	qi nan shi
+朝香小徑	chao xiang xiao jing
+前進道路	qian jin dao lu
+開闊道路	kai kuo dao lu
+庭園街道	ting yuan jie dao
+斜坡道路	xie po dao lu
+宮殿林蔭道	gong dian lin yin dao
+環河小徑	huan he xiao jing
+巖壁海岸	yan bi hai an
+尖尖山道	jian jian shan dao
+巨石之路	ju shi zhi lu
+明鏡道路	ming jing dao lu
+牧場道路	mu chang dao lu
+密阿雷荒野	mi a lei huang ye
+香薰林道	xiang xun lin dao
+褐棕道路	he zong dao lu
+憂鬱道路	you yu dao lu
+象牙豬之路	xiang ya zhu zhi lu
+峽谷道路	xia gu dao lu
+巨穀道路	ju gu dao lu
+最後道路	zui hou dao lu
+繞行道路	rao xing dao lu
+白檀森林	bai tan sen lin
+虛空之室	xu kong zhi shi
+巴爾法姆香殿	ba er fa mu xiang dian
+對戰城塞	dui zhan cheng sai
+樹果園	shu guo yuan
+串連地洞	chuan lian di dong
+閃耀洞窟	shan yao dong ku
+鏡穴	jing xue
+精練之塔	jing lian zhi ta
+蔚藍灣	wei lan wan
+海神之穴	hai shen zhi xue
+卡洛斯發電廠	ka luo si fa dian chang
+精靈球工廠	jing ling qiu gong chang
+荒廢酒店	huang fei jiu dian
+冰結洞窟	bing jie dong ku
+弗拉達利研究所	fu la da li yan jiu suo
+閃焰隊祕密基地	shan yan dui mi mi ji di
+終結洞窟	zhong jie dong ku
+寶可夢村	bao ke meng cun
+無名洞窟	wu ming dong ku
+對戰屋	dui zhan wu
+朋友狩獵	peng you shou lie
+# 阿羅拉地區
+美樂美樂島	mei le mei le dao
+阿卡拉島	a ka la dao
+烏拉烏拉島	wu la wu la dao
+波尼島	bo ni dao
+以太樂園	yi tai le yuan
+利利小鎮	li li xiao zhen
+好奧樂市	hao ao le shi
+海灘區	hai tan qu
+商業區	shang ye qu
+港口區	gang kou qu
+慷待市	kang dai shi
+歐哈納鎮	ou ha na zhen
+可霓可市	ke ni ke shi
+魄鎮	po zhen
+卡璞村	ka pu cun
+馬利埃靜市	ma li ai jing shi
+市郊海角	shi jiao hai jiao
+海洋居民之村	hai yang ju min zhi cun
+好奧樂市郊	hao ao le shi jiao
+波尼古道	bo ni gu dao
+波尼險路	bo ni xian lu
+蔥鬱洞窟	cong yu dong ku
+考驗之地	kao yan zhi di
+霸主居處	ba zhu ju chu
+維拉火山公園	wei la huo shan gong yuan
+潺潺之丘	chan chan zhi qiu
+樹蔭叢林	shu yin cong lin
+超值超市	chao zhi chao shi
+舊址	jiu zhi
+輝克拉尼天文臺	hui ke la ni tian wen tai
+波尼大峽谷	bo ni da xia gu
+卡拉蔚灣	ka la wei wan
+美樂美樂海	mei le mei le hai
+馬哈羅山路	ma ha luo shan lu
+吊橋	diao qiao
+戰爭遺蹟	zhan zheng yi ji
+十克拉山丘	shi ke la shan qiu
+最深處的空洞	zui shen chu de kong dong
+好奧樂墓園	hao ao le mu yuan
+美樂美樂花園	mei le mei le hua yuan
+通海洞穴	tong hai dong xue
+大浪海灘	da lang hai tan
+豪諾豪諾度假地	hao nuo hao nuo du jia di
+豪諾豪諾海灘	hao nuo hao nuo hai tan
+皇家大道	huang jia da dao
+回憶之丘	hui yi zhi qiu
+歐哈納牧場	ou ha na mu chang
+皮卡丘山谷	pi ka qiu shan gu
+分隔嶺隧道	fen ge ling sui dao
+生命遺蹟	sheng ming yi ji
+阿卡拉島郊外	a ka la dao jiao wai
+地鼠隧道	di shu sui dao
+皇家巨蛋	huang jia ju dan
+慷待海灘	kang dai hai tan
+烏拉烏拉後海岸	wu la wu la hou hai an
+烏拉烏拉海灘	wu la wu la hai tan
+哈伊納沙漠	ha yi na sha mo
+以太基地	yi tai ji di
+烏拉烏拉花園	wu la wu la hua yuan
+馬利埃庭園	ma li ai ting yuan
+輝克拉尼山	hui ke la ni shan
+火特力山	huo te li shan
+豐收遺蹟	feng shou yi ji
+日輪湖	ri lun hu
+月輪湖	yue lun hu
+拉納基拉山	la na ji la shan
+可疑宅邸	ke yi zhai di
+寶可夢聯盟	bao ke meng lian meng
+波尼花園	bo ni hua yuan
+波尼原野	bo ni yuan ye
+波尼鼓浪巖岸	bo ni gu lang yan an
+波尼樹林	bo ni shu lin
+波尼曠野	bo ni kuang ye
+波尼海岸	bo ni hai an
+波尼海灘	bo ni hai tan
+日輪祭壇	ri lun ji tan
+月輪祭壇	yue lun ji tan
+彼岸遺蹟	bi an yi ji
+椰蛋樹島	ye dan shu dao
+對戰樹	dui zhan shu
+以太之家	yi tai zhi jia
+# 伽勒爾地區
+化朗鎮	hua lang zhen
+木杆鎮	mu gan zhen
+機擎市	ji qing shi
+草路鎮	cao lu zhen
+水舟鎮	shui zhou zhen
+拳關市	quan guan shi
+溯傳鎮	su chuan zhen
+舞姿鎮	wu zi zhen
+戰競鎮	zhan jing zhen
+尖釘鎮	jian ding zhen
+宮門市	gong men shi
+微寐森林	wei mei sen lin
+伽勒爾礦山	ga lei er kuang shan
+機擎市郊外	ji qing shi jiao wai
+第二礦山	di er kuang shan
+能源工廠	neng yuan gong chang
+塔頂	ta ding
+迷光森林	mi guang sen lin
+泉煙小路	quan yan xiao lu
+戰競灣	zhan jing wan
+尖釘鎮郊外	jian ding zhen jiao wai
+九路隧道	jiu lu sui dao
+寶物庫	bao wu ku
+宮門競技場	gong men jing ji chang
+含羞苞旅店	han xiu bao lv dian
+對戰咖啡館	dui zhan ka fei guan
+洛茲大廈	luo zi da sha
+集匯空地	ji hui kong di
+煦麗草原	xu li cao yuan
+沐光森林	mu guang sen lin
+瞭望塔舊址	liao wang ta jiu zhi
+牙牙湖東岸	ya ya hu dong an
+牙牙湖西岸	ya ya hu xi an
+牙牙湖之眼	ya ya hu zhi yan
+美納斯湖南岸	mei na si hu nan an
+巨人凳巖	ju ren deng yan
+美納斯湖北岸	mei na si hu bei an
+機擎河岸	ji qing he an
+橋間空地	qiao jian kong di
+巨石原野	ju shi yuan ye
+沙塵窪地	sha chen wa di
+巨人鏡池	ju ren jing chi
+拳關丘陵	quan guan qiu ling
+巨人帽巖	ju ren mao yan
+逆鱗湖	ni lin hu
+揖禮原野	yi li yuan ye
+清涼溼原	qing liang shi yuan
+專注森林	zhuan zhu sen lin
+挑戰海灘	tiao zhan hai tan
+戰鬥洞窟	zhan dou dong ku
+挑戰之路	tiao zhan zhi lu
+鬥志洞窟	dou zhi dong ku
+圓環海灣	yuan huan hai wan
+鍛鍊平原	duan lian ping yuan
+熱身洞穴	re shen dong xue
+鍋底沙漠	guo di sha mo
+健身之海	jian shen zhi hai
+列島海域	lie dao hai yu
+離島海域	li dao hai yu
+蜂巢海	feng chao hai
+蜂巢島	feng chao dao
+馬師傅武館	ma shi fu wu guan
+惡之塔	e zhi ta
+水之塔	shui zhi ta
+起橇雪原	qi qiao xue yuan
+凍凝村	dong ning cun
+冰點雪原	bing dian xue yuan
+巨人睡榻	ju ren shui ta
+遠古墓地	yuan gu mu di
+雪中溪谷	xue zhong xi gu
+登頂隧道	deng ding sui dao
+通頂雪道	tong ding xue dao
+王冠神殿	wang guan shen dian
+巨人鞋底	ju ren xie di
+海鳴洞窟	hai ming dong ku
+凍海	dong hai
+三岔平原	san cha ping yuan
+球湖湖畔	qiu hu hu pan
+湖畔洞窟	hu pan dong ku
+巨樹丘陵	ju shu qiu ling
+抉擇遺蹟	jue ze yi ji
+極巨巢穴	ji ju chao xue
+# 帕底亞地區
+小匙鎮	xiao shi zhen
+平碟鎮	ping die zhen
+桌臺市	zhuo tai shi
+深鉢鎮	shen bo zhen
+釀光市	niang guang shi
+焙固鎮	bei gu zhen
+圓模鎮	yuan mo zhen
+玻瓶市	bo ping shi
+漬沁鎮	zi qin zhen
+穴扎鎮	xue zha zhen
+錦匯鎮	jin hui zhen
+小匙小徑	xiao shi xiao jing
+海灣洞穴	hai wan dong xue
+印記樹林	yin ji shu lin
+霜抹山	shuang mo shan
+大鍋湖	da guo hu
+烘烘沙漠	hong hong sha mo
+錦穴山道	jin xue shan dao
+焙固空洞	bei gu kong dong
+帕底亞巨坑	pa di ya ju keng
+南帕底亞海	nan pa di ya hai
+西帕底亞海	xi pa di ya hai
+東帕底亞海	dong pa di ya hai
+北帕底亞海	bei pa di ya hai
+朽木之祠	xiu mu zhi ci
+凍裂之祠	dong lie zhi ci
+塵土之祠	chen tu zhi ci
+火難之祠	huo nan zhi ci
+橘子學院	ju zi xue yuan
+葡萄學院	pu tao xue yuan
+王良一小隊基地	wang liang yi xiao dui ji di
+閣道二小隊基地	ge dao er xiao dui ji di
+閣道三小隊基地	ge dao san xiao dui ji di
+王良四小隊基地	wang liang si xiao dui ji di
+策星小隊基地	ce xing xiao dui ji di
+零區閘口	ling qu zha kou
+第零區	di ling qu
+零區研究所	ling qu yan jiu suo
+零之大空洞	ling zhi da kong dong
+# 北上鄉
+北上街道	bei shang jie dao
+翠綠鎮	cui lv zhen
+蘋果之丘	ping guo zhi qiu
+寶伴廣場	bao ban guang chang
+起舞山道	qi wu shan dao
+北上中心	bei shang zhong xin
+鬼山	gui shan
+恐洞	kong dong
+鬼齒洞	gui chi dong
+晶光池	jing guang chi
+鬼山山頂	gui shan shan ding
+藤花原	teng hua yuan
+匯流河灘	hui liu he tan
+鬼角峽谷	gui jiao xia gu
+樂土荒地	le tu huang di
+北上原生區	bei shang yuan sheng qu
+永久森林	yong jiu sen lin
+地獄谷	di yu gu
+冷水洞	leng shui dong
+# 藍莓學園
+入口大堂	ru kou da tang
+聯盟社	lian meng she
+生態巨蛋	sheng tai ju dan
+草原區	cao yuan qu
+海岸區	hai an qu
+峽谷區	xia gu qu
+極地區	ji di qu
+中心廣場	zhong xin guang chang
+草原廣場	cao yuan guang chang
+海岸廣場	hai an guang chang
+峽谷廣場	xia gu guang chang
+極地廣場	ji di guang chang
+電氣石巖窟	dian qi shi yan ku
+火光迷宮	huo guang mi gong
+# 未知區域或不屬於任何地區
+神都遺蹟	shen dou yi ji
+究極空間	jiu ji kong jian
